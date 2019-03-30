@@ -1,0 +1,30 @@
+h1 {color: hotpink;
+    text-align: center;
+    font-size: 60px;
+}
+h2.color {
+    color: mediumpurple;
+}
+
+p {
+    color: blue;
+    text-align: center;
+}
+#para2 {
+    color: green;
+    text-align: left;
+}
+#para3 {
+    color: black;
+    text-align: left;
+}
+body {
+    background-color: lightgoldenrodyellow;
+    margin: 5% 15%;
+}
+ul.color{
+    color: hotpink;
+}
+ul.type {
+    list-style-type: square
+}
