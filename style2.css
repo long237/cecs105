@@ -1,29 +1,41 @@
-h1 {color: hotpink;
+h1 {color: lawngreen;
     text-align: center;
     font-size: 60px;
 }
-h2.color {
-    color: mediumpurple;
+h2 {
+    color: white;
+    background-color: dimgray;
+    border-radius: 10px; 
 }
-
+h3 {
+    color: white;
+    background-color: gray;
+    font-family: monospace;
+}
 p {
-    color: blue;
+    color: lawngreen;
     text-align: center;
 }
 #para2 {
-    color: green;
-    text-align: left;
+    color: lawngreen;
+    background-color: gray;
+    border-radius: 9px;
+    color: white;
+    font-size: 26px
 }
 #para3 {
-    color: black;
-    text-align: left;
+    color: white;
+    background-color: slategray;
+    font-size: 26px;
+    border-radius: 9px;
 }
 body {
-    background-color: lightgoldenrodyellow;
+    background-color: black;
     margin: 5% 15%;
+    font-size: 25px;
 }
 ul.color{
-    color: hotpink;
+    color: lawngreen;
 }
 ul.type {
     list-style-type: square
